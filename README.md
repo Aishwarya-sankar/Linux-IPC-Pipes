@@ -90,7 +90,7 @@ printf("THE RESULTS OF CLIENTS ARE ...... \n"); write(1,buff,n);
 
 ## OUTPUT
 
-![WhatsApp Image 2024-03-30 at 09 18 34_65b40b73](https://github.com/Nandhakumar1313/Linux-IPC-Pipes/assets/120230694/97f18580-5961-4367-958f-4122126f2620)
+file:///home/sec/Downloads/Screenshot%20from%202024-03-30%2009-30-43(2).png![Uploading image.png…]()
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
